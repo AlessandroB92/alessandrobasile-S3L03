@@ -53,6 +53,9 @@ ul {
 }
 
 li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
     border-radius: 5px;
     border: 1px solid #4C5CAF;
     margin: 5px 0;
